@@ -1,11 +1,10 @@
-<h1>&#128075; Olá, eu sou o Rafa !</h1>
+<h1>&#128075; Olá, eu sou o Gui !</h1>
 
 <h3>Sobre mim:</h3>
 <ul>
-    <li>Professor de Programação 💡</li>
-    <li>Programador Front End 💻</li>
-    <li>Apaixonado por Arte e Design 🖌</li>
-    <li>Formado em Banco de Dados 🗄</li>
+    <li>Estudante de Programação 💡</li>
+    <li>Programador Fullstack 💻</li>
+    <li>Cursando Desenvolvimento de Sistemas🗄</li>
 </ul>
     
 ##
