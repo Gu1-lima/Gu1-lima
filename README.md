@@ -1,4 +1,4 @@
-<h1>&#128075; Olá, eu sou o Gui !</h1>
+<h1>&#128075; Olá, eu sou o Guilherme Lima !</h1>
 
 <h3>Sobre mim:</h3>
 <ul>
