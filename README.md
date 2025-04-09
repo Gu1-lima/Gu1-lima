@@ -3,8 +3,8 @@
 <h3>Sobre mim:</h3>
 <ul>
     <li>Estudante de Programação 💡</li>
-    <li>Programador Fullstack 💻</li>
-    <li>Cursando Desenvolvimento de Sistemas🗄</li>
+    <li>Programador frontEnd 💻</li>
+    <li>Tecnico em Desenvolvimento de Sistemas🗄</li>
 </ul>
     
 ##
